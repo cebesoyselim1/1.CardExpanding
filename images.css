@@ -1,0 +1,21 @@
+
+.card:nth-child(1){
+    background-image: url("https://wallpaperaccess.com/full/284466.jpg");
+}
+
+.card:nth-child(2){
+    background-image: url("https://wallpapercave.com/wp/3a0T946.jpg");
+}
+
+.card:nth-child(3){
+    background-image: url("https://wallpaperaccess.com/full/284467.jpg");
+}
+
+.card:nth-child(4){
+    background-image: url("https://wallpapercave.com/wp/trlzN6b.jpg");
+}
+
+.card:nth-child(5){
+    background-image: url("https://wallpapercave.com/wp/ADYJNuV.jpg");
+}
+
